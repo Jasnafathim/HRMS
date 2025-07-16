@@ -1,4 +1,4 @@
-<p align="center">Human Resource Management System (HRMS)</a></p>
+<p align="center"><b>Human Resource Management System (HRMS)</b></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
