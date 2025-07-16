@@ -4,39 +4,46 @@
 
 This is a comprehensive, user-friendly, and efficient HRMS (Human Resource Management System) built using Laravel and MySQL, designed to brilliantly handle employee operations and interactions within an organization. The system gracefully supports three distinct user roles: Admin, HR, and Employee, each with their own specialized features.
 
-- Admin Panel
+### Admin Panel
 
 The admin logs in with hardcoded credentials. 
-Username: admin
-Password: admin
 
-## Laravel Sponsors
+-Username: admin
+-Password: admin
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Once logged in, the admin is welcomed with a clean, intuitive dashboard offering complete control over the system. The admin can:
 
-### Premium Partners
+1. Manage HRs
+   - Add new HRs
+   - View the list of current HRs, and toggle their status between blocked and unblocked.
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+2. Manage Employees
+   - View employees based on the department they belong to, providing quick departmental insights.
 
-## Contributing
+3. Manage Leaves
+    - Add various types of leaves
+   - View all leave types that are available to employees.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+4. Manage Departments 
+    – Add new departments 
+    - View and manage existing departments.
 
-## Code of Conduct
+### HR Panel
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+HRs are created by the admin and log in using their name and email address. Upon logging in, they are directed to their personalized dashboard that showcases powerful features specifically tailored to department-level management:
 
-## Security Vulnerabilities
+1. Manage Employees
+ - Onboard new employees
+ -View the list of employees strictly within their assigned department. HRs can block or unblock employees as needed.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+2. Attendance Tracking
+    - Mark Attendance – HR can choose a specific date and mark each employee as Present or Absent.
+    - View Attendance – Select a date to view attendance records for all employees in their department.
 
-## License
+3. Manage Leaves
+- Action Section – View and process leave requests from employees (Approve or Reject). The status updates immediately and clearly.
+- View All – See a detailed history of all leave records.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+4. Performance
+- Add Rating – Rate employees' performance from 1 to 5 stars.
+- View Rating – See a summary of all ratings given to employees under their management.
