@@ -4,7 +4,7 @@
 
 This is a comprehensive, user-friendly, and efficient HRMS (Human Resource Management System) built using Laravel and MySQL, designed to brilliantly handle employee operations and interactions within an organization. The system gracefully supports three distinct user roles: Admin, HR, and Employee, each with their own specialized features.
 
-- **Admin Panel**
+### Admin Panel
 
 The admin logs in with hardcoded credentials. 
 
@@ -24,9 +24,9 @@ Once logged in, the admin is welcomed with a clean, intuitive dashboard offering
     - Add various types of leaves
    - View all leave types that are available to employees.
 
-4. Manage Departments 
-    – Add new departments 
-    - View and manage existing departments.
+4. Manage Departments
+   – Add new departments
+   - View and manage existing departments.
 
 ### HR Panel
 
@@ -47,3 +47,22 @@ HRs are created by the admin and log in using their name and email address. Upon
 4. Performance
    - Add Rating – Rate employees' performance from 1 to 5 stars.
    - View Rating – See a summary of all ratings given to employees under their management.
+  
+### Employee Panel
+
+Employees log in using their email and password. Once authenticated, they are greeted with a warm, personalized dashboard that offers the following:
+
+1. About Section
+   – Explains how to use the platform effectively.
+
+2. Apply Leave
+   – Select the leave type, input start and end dates, provide a reason, and submit a leave request that will be reviewed by HR.
+
+3. Leave Status
+   – View the current status of all applied leaves (Approved, Rejected, or Pending).
+
+4. Profile
+   – View and update editable personal details.
+
+5. Performance
+   – Check the rating given by HR.  
