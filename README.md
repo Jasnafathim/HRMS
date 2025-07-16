@@ -4,7 +4,7 @@
 
 This is a comprehensive, user-friendly, and efficient HRMS (Human Resource Management System) built using Laravel and MySQL, designed to brilliantly handle employee operations and interactions within an organization. The system gracefully supports three distinct user roles: Admin, HR, and Employee, each with their own specialized features.
 
-### **Admin Panel**
+**Admin Panel**
 
 The admin logs in with hardcoded credentials. 
 
