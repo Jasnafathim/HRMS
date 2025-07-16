@@ -70,7 +70,8 @@ Employees log in using their email and password. Once authenticated, they are gr
 ## Tech Stack
 - Backend: Laravel Framework
 - Frontend: Blade Templates + Bootstrap 5
-- Database: MySQL
+- Database: MySQL (View hrmgmt_system.sql)
 
+## Screenshots
 
    
