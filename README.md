@@ -8,8 +8,8 @@ This is a comprehensive, user-friendly, and efficient HRMS (Human Resource Manag
 
 The admin logs in with hardcoded credentials. 
 
--Username: admin
--Password: admin
+- Username: admin
+- Password: admin
 
 Once logged in, the admin is welcomed with a clean, intuitive dashboard offering complete control over the system. The admin can:
 
@@ -33,17 +33,17 @@ Once logged in, the admin is welcomed with a clean, intuitive dashboard offering
 HRs are created by the admin and log in using their name and email address. Upon logging in, they are directed to their personalized dashboard that showcases powerful features specifically tailored to department-level management:
 
 1. Manage Employees
- - Onboard new employees
- -View the list of employees strictly within their assigned department. HRs can block or unblock employees as needed.
+   - Onboard new employees
+   - View the list of employees strictly within their assigned department. HRs can block or unblock employees as needed.
 
 2. Attendance Tracking
     - Mark Attendance – HR can choose a specific date and mark each employee as Present or Absent.
     - View Attendance – Select a date to view attendance records for all employees in their department.
 
 3. Manage Leaves
-- Action Section – View and process leave requests from employees (Approve or Reject). The status updates immediately and clearly.
-- View All – See a detailed history of all leave records.
+   - Action Section – View and process leave requests from employees (Approve or Reject). The status updates immediately and clearly.
+   - View All – See a detailed history of all leave records.
 
 4. Performance
-- Add Rating – Rate employees' performance from 1 to 5 stars.
-- View Rating – See a summary of all ratings given to employees under their management.
+   - Add Rating – Rate employees' performance from 1 to 5 stars.
+   - View Rating – See a summary of all ratings given to employees under their management.
