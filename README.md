@@ -25,8 +25,8 @@ Once logged in, the admin is welcomed with a clean, intuitive dashboard offering
    - View all leave types that are available to employees.
 
 4. Manage Departments
-   – Add new departments
-   - View and manage existing departments.
+    - Add new departments
+     - View and manage existing departments.
 
 ### HR Panel
 
@@ -53,19 +53,19 @@ HRs are created by the admin and log in using their name and email address. Upon
 Employees log in using their email and password. Once authenticated, they are greeted with a warm, personalized dashboard that offers the following:
 
 1. About Section
-   – Explains how to use the platform effectively.
+   - Explains how to use the platform effectively.
 
 2. Apply Leave
-   – Select the leave type, input start and end dates, provide a reason, and submit a leave request that will be reviewed by HR.
+   - Select the leave type, input start and end dates, provide a reason, and submit a leave request that will be reviewed by HR.
 
 3. Leave Status
-   – View the current status of all applied leaves (Approved, Rejected, or Pending).
+   - View the current status of all applied leaves (Approved, Rejected, or Pending).
 
 4. Profile
-   – View and update editable personal details.
+   - View and update editable personal details.
 
 5. Performance
-   – Check the rating given by HR.
+   - Check the rating given by HR.
 
 ## Tech Stack
 - Backend: Laravel Framework
