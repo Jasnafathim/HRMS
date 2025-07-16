@@ -65,4 +65,12 @@ Employees log in using their email and password. Once authenticated, they are gr
    – View and update editable personal details.
 
 5. Performance
-   – Check the rating given by HR.  
+   – Check the rating given by HR.
+
+## Tech Stack
+- Backend: Laravel Framework
+- Frontend: Blade Templates + Bootstrap 5
+- Database: MySQL
+
+
+   
