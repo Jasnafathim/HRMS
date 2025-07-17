@@ -77,7 +77,7 @@ Employees log in using their email and password. Once authenticated, they are gr
 ### Admin
 
 - **Login**
-![image alt](Screenshots/1-Admin-login.png)
+![image alt](Screenshots/1-Adnim-login.png)
    
 - **Dashboard**
 ![image alt](Screenshots/2-Admin-dashboard.png)
@@ -111,4 +111,66 @@ Employees log in using their email and password. Once authenticated, they are gr
 
  - **Edit Department**
 ![image alt](Screenshots/12-Admin-editdept.png)
+ 
+### HR
+
+- **Login**
+![image alt](Screenshots/13-Hr-login.png)
+   
+- **Dashboard**
+![image alt](Screenshots/14-Hr-dashboard.png)
+   
+- **Add Employee**
+![image alt](Screenshots/15-Hr-employeeonboard.png)
+
+ - **View Employees**
+![image alt](Screenshots/16-Hr-viewemployee.png)
+
+ - **Mark Attendence**
+![image alt](Screenshots/17-Hr-markattendence.png)
+
+ - **View attendence**
+![image alt](Screenshots/18-Hr-viewattendance.png)
+
+ - **Manage Leaves**
+![image alt](Screenshots/19-Hr-manageleaves.png)
+
+ - **View Leaves**
+![image alt](Screenshots/20-Hr-viewleaves.png)
+
+ - **Add Rating**
+![image alt](Screenshots/21-Hr-addrating.png)
+
+ - **Edit Rating**
+![image alt](Screenshots/22-Hr-editrating.png)
+
+ - **View Performance**
+![image alt](Screenshots/23-Hr-viewperformance.png)
+
+### Employee
+
+- **Login**
+![image alt](Screenshots/24-Employee-login.png)
+   
+- **Dashboard**
+![image alt](Screenshots/25-Employee-dashboard.png)
+   
+- **About**
+![image alt](Screenshots/26-Employee-about.png)
+
+ - **Apply Leave**
+![image alt](Screenshots/27-Employee-applyleave.png)
+
+ - **Leave Status**
+![image alt](Screenshots/28-Employee-leavestatus.png)
+
+ - **Profile**
+![image alt](Screenshots/29-Employee-profile.png)
+
+ - **Edit Profile**
+![image alt](Screenshots/30-Employee-editprofile.png)
+
+ - **Performance**
+![image alt](Screenshots/31-Employee-performance.png)
+
  
