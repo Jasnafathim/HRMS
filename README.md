@@ -74,4 +74,4 @@ Employees log in using their email and password. Once authenticated, they are gr
 
 ## Screenshots
 
-   
+![image alt](https://github.com/Jasnafathim/HRMS/blob/a130ce858544c2d964617cdf4ba55eddba3e5680/Screenshots/1-Adnim-login.png)   
