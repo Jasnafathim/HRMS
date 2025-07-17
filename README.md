@@ -74,4 +74,41 @@ Employees log in using their email and password. Once authenticated, they are gr
 
 ## Screenshots
 
-![image alt](https://github.com/Jasnafathim/HRMS/blob/a130ce858544c2d964617cdf4ba55eddba3e5680/Screenshots/1-Adnim-login.png)   
+### Admin
+
+- **Login**
+![image alt](Screenshots/1-Admin-login.png)
+   
+- **Dashboard**
+![image alt](Screenshots/2-Admin-dashboard.png)
+   
+- **Add HR**
+![image alt](Screenshots/3-Admin-addhr.png)
+
+ - **View HRs**
+![image alt](Screenshots/4-Admin-viewhr.png)
+
+ - **View Employees**
+![image alt](Screenshots/5-Admin-viewemployee.png)
+
+ - **View Employee with Department**
+![image alt](Screenshots/6-employee-depatment.png)
+
+ - **Add Leave**
+![image alt](Screenshots/7-Admin-addleave.png)
+
+ - **View Leave**
+![image alt](Screenshots/8-Admin-viewleave.png)
+
+ - **Edit Leave**
+![image alt](Screenshots/9-Admin-editleave.png)
+
+ - **Add Department**
+![image alt](Screenshots/10-Admin-adddepartment.png)
+
+ - **View Department**
+![image alt](Screenshots/11-Admin-viewdept.png)
+
+ - **Edit Department**
+![image alt](Screenshots/12-Admin-editdept.png)
+ 
